@@ -1,4 +1,4 @@
-<h1 align="center">Okunola .O.Abdullahi<img src="icons8-verified-badge-48.png" height="25" width="25"></h1>
+<h1 align="left">Okunola .O.Abdullahi<img src="icons8-verified-badge-48.png" height="25" width="25"></h1>
 
 <h3 align="center">A passionate AI developer from NIGERIA</h3>
 
