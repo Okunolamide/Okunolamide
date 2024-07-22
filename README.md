@@ -1,4 +1,4 @@
-<h1 align="left">OKUNOLAMIDE<img src="I.png" height="25" width="25"></h1>
+<h1 align="left">OKUNOLAMIDE<img src="verified.png" height="25" width="25"></h1>
 
 <h3 align="center">A passionate AI developer / Cyber security pro </h3>
 
