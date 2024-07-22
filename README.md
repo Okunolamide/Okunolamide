@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://twitter.com/okunolamide" target="blank"><img src="https://img.shields.io/twitter/follow/okunolamide?logo=twitter&style=for-the-badge" alt="okunolamide" /></a> </p>
 
 - 🔭 I’m currently working on **ROUTING SYSTEM**
+- 🔭 I’m currently working with **cyber soc Africa**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Okunolamide](https://github.com/Okunolamide)
 
